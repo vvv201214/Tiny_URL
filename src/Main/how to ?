@@ -1,0 +1,12 @@
+Take input of URL from user.
+Checking this input is available in hashmap or not.
+if available then get old one.
+if not create new one. Also check the random number is also new or not, if not then generate again.
+Now print the generated Tiny-URL.
+
+Also this tiny-url is put in another hashmap with user-url.
+
+
+** Next phase is in backend **
+
+Now this tiny url will get the user-url from another hashmap in backend.
